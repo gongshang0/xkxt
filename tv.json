@@ -307,7 +307,6 @@
       "quickSearch": 0,
       "changeable": 0
     },
-    
     {
       "key": "Aid",
       "name": "急救┃教学",
@@ -334,8 +333,6 @@
         "quarkCookie": "tvfan/cookie.txt",
         "from": "4k|auto|fhd"
       }
-    },
-   
     },
     {
       "key": "YiSo",
@@ -376,10 +373,6 @@
         "from": "4k|auto|fhd"
       }
     },
- 
-    },
-   
-    },
     {
       "key": "Bili",
       "name": "哔哔┃合集",
@@ -409,7 +402,6 @@
       "quickSearch": 0,
       "changeable": 0
     },
-  
     {
       "key": "Nbys",
       "name": "泥巴",
@@ -437,7 +429,6 @@
       "quickSearch": 0,
       "changeable": 0
     }
-  ],
   "doh": [
     {
       "name": "Google",
